@@ -33,8 +33,8 @@ $python feats2seq.py
 $python SAS.py
 `
 
-##RESULTS
-
+##RESULTS  
+Check [Final_Report](https://github.com/sreekarcheg/Citation-Count-Prediction/blob/master/Final_Report.pdf) for results
 
 ## Built With
 
